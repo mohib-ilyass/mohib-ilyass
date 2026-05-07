@@ -128,11 +128,11 @@ status: ACTIVE | clearance: OFFENSIVE | specialisation: WEB EXPLOITATION
 
 <div align="center">
 
-![Mohib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohib-ilyass&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=CCCCCC)
+![Mohib's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohib-ilyass&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF0000&icon_color=FF0000&text_color=CCCCCC&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohib-ilyass&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF0000&text_color=CCCCCC)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohib-ilyass&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF0000&text_color=CCCCCC&langs_count=8)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mohib-ilyass&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=CCCCCC&dates=888888)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohib-ilyass&hide_border=true&background=0d0d0d&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=CCCCCC&dates=888888)
 
 </div>
 
