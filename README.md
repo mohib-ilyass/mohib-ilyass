@@ -24,7 +24,7 @@ status: ACTIVE | clearance: OFFENSIVE | specialisation: WEB EXPLOITATION
 
 <div align="center">
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/mohibilyass.png)](https://tryhackme.com/p/mohibilyass)
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/mohibilyass.png)](https://tryhackme.com/p/mohibilyass)
 
 </div>
 
