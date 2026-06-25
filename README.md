@@ -1,7 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=250&section=header&text=%5B%20TARGET%20ACQUIRED%20%5D&fontSize=42&fontColor=FF0000&animation=fadeIn&fontAlignY=35&desc=Mohib%20Ilyass%20%7C%20Web%20Penetration%20Tester&descAlignY=58&descSize=20&descColor=CCCCCC)
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:8B0000,100:0d0d0d&height=250&section=header&text=TARGET%20ACQUIRED&fontSize=40&fontColor=FF1A1A&animation=fadeIn&fontAlignY=38&desc=Mohib%20Ilyass%20%7C%20Web%20Exploitation%20%E2%80%A2%20Offensive%20Security&descAlignY=60&descSize=19&descColor=D9D9D9)
 </div>
 
 <div align="center">
