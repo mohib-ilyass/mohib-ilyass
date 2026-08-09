@@ -42,7 +42,7 @@ status: ACTIVE | clearance: OFFENSIVE | specialisation: WEB EXPLOITATION
 ║  UNIT         : BS Cybersecurity @ COMSATS Islamabad         ║
 ║  CLEARANCE    : 5th Semester | CGPA 3.39                     ║
 ╠══════════════════════════════════════════════════════════════╣
-║  THM RANK     : Top 4% Global | 120+ Rooms | 150+ Day Streak ║
+║  THM RANK     : Top 4% Global | 120+ Rooms | 200+ Day Streak ║
 ║  HTB STATUS   : Active — Machines Being Rooted               ║
 ║  CTF OPS      : University + Public/Private Competitions      ║
 ║  RESEARCH     : CVE Analysis | Attack Chain Documentation    ║
