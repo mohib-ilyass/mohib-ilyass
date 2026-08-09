@@ -147,7 +147,7 @@ status: ACTIVE | clearance: OFFENSIVE | specialisation: WEB EXPLOITATION
 │  [✓] Web Hacking Toolbox — TCM Security              2025           │
 │  [✓] OPSWAT ICIP — Critical Infrastructure          2025           │
 │  [★] Bronze Medal — AJK BISE FSc Board Exams        Top 3          │
-│  [🔥] TryHackMe — Top 5% Global                     120+ Rooms     │
+│  [🔥] TryHackMe — Top 4% Global                     120+ Rooms     │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
