@@ -117,7 +117,7 @@ status: ACTIVE | clearance: OFFENSIVE | specialisation: WEB EXPLOITATION
 | 01 | [🔴 RedOps – Pentest Platform](https://github.com/mohib-ilyass/redops-pentest-platform) | Multi-role vulnerability management platform with live client dashboards, admin assignment, and severity-scored reporting | Python · CustomTkinter · MySQL · MongoDB | `ACTIVE` |
 | 02 | [🤖 AI Phishing URL Detector](https://github.com/mohib-ilyass/ai-phishing-detector) | Random Forest ML classifier detecting malicious URLs with ~87% accuracy via Streamlit UI | Python · Scikit-learn · Streamlit | `DEPLOYED` |
 | 03 | [🌐 Network Packet Sniffer](https://github.com/mohib-ilyass/network-packet-sniffer) | Manual Ethernet→IPv4→TCP/UDP packet dissection using raw sockets and struct parsing | Python · Scapy · Raw Sockets | `COMPLETE` |
-| 04 | [🔑 Secure Password Manager](https://github.com/mohib-ilyass/secure-password-manager) | Fernet-encrypted GUI password vault with admin auth and strength enforcement | Python · Tkinter · Fernet | `COMPLETE` |
+| 04 | [🔑 Secure Password Manager](https://github.com/mohib-ilyass/secure-password-manager-gui-encryption) | Fernet-encrypted GUI password vault with admin auth and strength enforcement | Python · Tkinter · Fernet | `COMPLETE` |
 | 05 | [⌨️ Red Team Keylogger](https://github.com/mohib-ilyass/red-team-keylogger) | pynput-based keystroke capture tool for Red Team simulation exercises | Python · pynput | `COMPLETE` |
 | 06 | [📝 Security Writeups](https://github.com/mohib-ilyass/security-writeups) | PortSwigger & picoCTF writeups with full attack chain documentation | Markdown | `ONGOING` |
 
